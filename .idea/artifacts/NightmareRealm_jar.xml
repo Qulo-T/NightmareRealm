@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NightmareRealm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NightmareRealm_jar</output-path>
+    <root id="archive" name="NightmareRealm.jar">
+      <element id="module-output" name="NightmareRealm" />
+    </root>
+  </artifact>
+</component>
